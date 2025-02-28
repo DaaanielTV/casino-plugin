@@ -1,7 +1,7 @@
 name: Casino
 version: 1.0.1
 main: us.celestiamc.casinoproj.Main.Casino
-api-version: 1.8.8
+api-version: 1.21.4
 commands:
   Jackpot:
     description: Join the jackpot.
