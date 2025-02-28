@@ -9,7 +9,7 @@ Welcome to the **Minecraft Casino Plugin** – built on top of [wyattpfeil's rep
 - **Highly Configurable:** Adjust settings easily via the provided [`config.yml`](src/main/resources/config.yml) file. ⚙️
 
 ## Installation ⚙️
-1. **Download the Plugin:** Grab the latest version from our [GitHub repository](https://github.com/wyattpfeil/Minecraft-Casino-Plugin). 📥
+1. **Download the Plugin:** Grab the latest version from our [GitHub repository](https://github.com/DaaanielTV/casino-plugin). 📥
 2. **Install Vault:** Make sure you have the [Vault plugin](https://www.spigotmc.org/resources/vault.34315/) installed, as this plugin depends on it for economy functions. 🔗
 3. **Place in Plugins Folder:** Copy the `casino-1.0.0.jar` file into your server's `plugins` folder. 🚀
 4. **Restart Your Server:** Restart to activate the plugin and load settings from `config.yml` and [`plugin.yml`](src/main/resources/plugin.yml). 🔄
@@ -40,7 +40,7 @@ Welcome to the **Minecraft Casino Plugin** – built on top of [wyattpfeil's rep
 - **License:** This project is released under the [MIT License](LICENSE). 🔓
 
 ## Get in Touch 📬
-For support, issues, or feedback, visit the [GitHub repository](https://github.com/wyattpfeil/Minecraft-Casino-Plugin) and open an issue or pull request. Let's build something awesome together! 🚀
+For support, issues, or feedback, visit the [GitHub repository](https://github.com/DaaanielTV/casino-plugin) and open an issue or pull request. Let's build something awesome together! 🚀
 
 ---
 
